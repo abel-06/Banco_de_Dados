@@ -101,3 +101,4 @@ C:\Users\narut\Desktop\apis\obj\Debug\net9.0\refint\apis.dll
 C:\Users\narut\Desktop\apis\obj\Debug\net9.0\apis.pdb
 C:\Users\narut\Desktop\apis\obj\Debug\net9.0\apis.genruntimeconfig.cache
 C:\Users\narut\Desktop\apis\obj\Debug\net9.0\ref\apis.dll
+C:\Users\narut\Desktop\apis\obj\Debug\net9.0\apis.sourcelink.json
